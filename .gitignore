@@ -1,0 +1,24 @@
+# ───────────────────────────────────────────────
+# Mini-Games-Collection .gitignore
+# Keeps compiled output, logs, and OS junk out of the repo.
+# Only source code, READMEs, and assets should be tracked.
+# ───────────────────────────────────────────────
+
+# Compiled executable. The path matters: this ignores the binary that sits
+# INSIDE the game folder, without ignoring the folder itself (the folder and
+# the binary share the name "click-game").
+click-game/click-game
+
+# Debug symbol bundles (created on macOS builds)
+*.dSYM/
+
+# Runtime / SplashKit logs
+*.log
+logs/
+myeasylog.log
+
+# macOS / editor / OS junk
+.DS_Store
+._*
+__MACOSX/
+.vscode/
