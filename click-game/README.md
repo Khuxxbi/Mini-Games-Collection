@@ -34,12 +34,17 @@ SplashKit graphics library.
 ## Running it
 
 You'll need [SplashKit](https://splashkit.io) installed. From inside this folder,
-compile both source files together and run the result:
-
-\`\`\`
+first compile both source files together:
+ 
+```bash
 skm clang++ click-game.cpp utilities.cpp -o click-game
+```
+ 
+Then run the compiled game:
+ 
+```bash
 ./click-game
-\`\`\`
+```
 
 > On Windows or Linux you may use `skm g++` instead of `skm clang++`.
 

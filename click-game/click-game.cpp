@@ -1,6 +1,3 @@
-// Compile Instructions: skm clang++ click-game.cpp utilities.cpp -o click-game
-// ./click-game
-
 #include "splashkit.h"
 #include "utilities.h"
 
