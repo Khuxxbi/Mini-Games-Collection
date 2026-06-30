@@ -12,6 +12,7 @@ and how to run it.
 | Game | Description |
 |------|-------------|
 | [Click Game](click-game) | A reflex game — click randomly placed targets to fill a progress bar and win. |
+| [Reaction Game](reaction-game) | Click targets as fast as you can — times each click and rates your reflexes. |
 
 
 ## Built with

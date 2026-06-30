@@ -5,9 +5,9 @@
 # ───────────────────────────────────────────────
 
 # Compiled executable. The path matters: this ignores the binary that sits
-# INSIDE the game folder, without ignoring the folder itself (the folder and
-# the binary share the name "click-game").
+# INSIDE the game folder, without ignoring the folder itself.
 click-game/click-game
+reaction-game/reaction-game
 
 # Debug symbol bundles (created on macOS builds)
 *.dSYM/
