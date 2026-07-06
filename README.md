@@ -13,6 +13,7 @@ and how to run it.
 |------|-------------|
 | [Click Game](click-game) | A reflex game — click randomly placed targets to fill a progress bar and win. |
 | [Reaction Game](reaction-game) | Click targets as fast as you can — times each click and rates your reflexes. |
+| [Rock Dodge Game](rock-dodge-game) | An arcade dodging game — move to avoid falling rocks and survive as long as you can. |
 
 
 ## Built with

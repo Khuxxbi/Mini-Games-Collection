@@ -8,6 +8,7 @@
 # INSIDE the game folder, without ignoring the folder itself.
 click-game/click-game
 reaction-game/reaction-game
+rock-dodge-game/rock-dodge-game
 
 # Debug symbol bundles (created on macOS builds)
 *.dSYM/
